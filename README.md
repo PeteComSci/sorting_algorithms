@@ -1,4 +1,4 @@
-# sorting_algorithms
+# Sorting Algorithms
 
 Sorting algorithms are fundamental in the field of computer science and are used to order elements in a list or array according to a specific order. Here's a list of some common sorting algorithms, each with its own unique mechanisms and use-cases:
 
